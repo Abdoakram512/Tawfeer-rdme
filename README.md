@@ -72,7 +72,7 @@ The entry flow is optimized for a fast and responsive user experience, managed b
 * **State-Driven Entry:** The app checks for valid user tokens via API during the splash phase to route the user correctly.
 
 <p align="center">
-  <img src="docs/images/splash.jpeg" width="280">
+  <img src="splash.jpeg" width="280">
 </p>
 
 ---
@@ -85,7 +85,7 @@ This module manages the secure entry and registration of delivery captains, feat
 
 | 🔑 Login | 📝 Register | 📄 Docs | ⏳ Review |
 |:---:|:---:|:---:|:---:|
-| <img src="docs/images/login.jpeg" width="200"> | <img src="docs/images/register.jpeg" width="200"> | <img src="docs/images/vehcileDetails" width="200"> | <img src="docs/images/review.jpeg" width="200"> |
+| <img src="login.jpeg" width="200"> | <img src="register.jpeg" width="200"> | <img src="vehcileDetails" width="200"> | <img src="review.jpeg" width="200"> |
 
 ---
 

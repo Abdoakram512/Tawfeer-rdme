@@ -1,7 +1,7 @@
 # Tawfeer Delivery - Logistics & Fulfillment 🚛
 
 <p align="center">
-  <img src="docs/images/Tawfeer%20Design.png" width="100%">
+  <img src="Tawfeer%20Design.png" width="100%">
 </p>
 
 ## 📝 General Overview

@@ -109,7 +109,7 @@ Once a captain selects an order, the app provides a comprehensive breakdown to e
 
 | 📦 Order Specs | 📍 Map & Client |
 |:---:|:---:|
-| <img src="docs/images/orderDetails.jpeg" width="250"> | <img src="docs/images/clientDetails.jpeg" width="250"> |
+| <img src="orderDetails.jpeg" width="250"> | <img src="clientDetails.jpeg" width="250"> |
 
 ---
 
@@ -121,7 +121,7 @@ A comprehensive archive of activities, categorized by status to maintain clear v
 
 | 🔄 In-Progress | ✅ Completed |
 |:---:|:---:|
-| <img src="docs/images/inprogressOrder.jpeg" width="250"> | <img src="docs/images/doneOrder.jpeg" width="250"> |
+| <img src="inprogressOrder.jpeg" width="250"> | <img src="doneOrder.jpeg" width="250"> |
 
 ---
 
@@ -133,7 +133,7 @@ The Account section provides captains with full control over their personal data
 
 | 🔔 Alerts | 👤 Profile | 🌍 Language | 📋 Terms |
 |:---:|:---:|:---:|:---:|
-| <img src="docs/images/notification.jpeg" width="180"> | <img src="docs/images/account.jpeg" width="180"> | <img src="docs/images/language.jpeg" width="180"> | <img src="docs/images/terms.jpeg" width="180"> |
+| <img src="notification.jpeg" width="180"> | <img src="account.jpeg" width="180"> | <img src="language.jpeg" width="180"> | <img src="terms.jpeg" width="180"> |
 
 ---
 
